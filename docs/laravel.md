@@ -5,7 +5,7 @@ Supports Laravel 10, 11 and 12. The package is auto-discovered.
 ## 1. Install and publish config
 
 ```bash
-composer require slimpay/school-sdk
+composer require hilinks/slimpay-school-sdk
 php artisan vendor:publish --tag=slimpay-config
 ```
 

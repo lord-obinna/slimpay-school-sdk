@@ -1,5 +1,5 @@
 {
-    "name": "slimpay/school-sdk",
+    "name": "hilinks/slimpay-school-sdk",
     "description": "Connect your school system to Slimpay: verify signed lookup requests, answer student/invoice lookups and handle payment webhooks.",
     "type": "library",
     "license": "MIT",

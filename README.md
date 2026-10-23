@@ -17,7 +17,7 @@ The core is plain PHP 8.1+ with **no runtime dependencies**, so it works in Lara
 ## Install
 
 ```bash
-composer require slimpay/school-sdk
+composer require hilinks/slimpay-school-sdk
 ```
 
 ## 60-second tour

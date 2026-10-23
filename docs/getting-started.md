@@ -12,7 +12,7 @@ This checklist takes a school developer from zero to a working integration. Do t
 ## 1. Install
 
 ```bash
-composer require slimpay/school-sdk
+composer require hilinks/slimpay-school-sdk
 ```
 
 ## 2. Decide which pieces you need
